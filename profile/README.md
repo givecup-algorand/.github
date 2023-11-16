@@ -1,9 +1,12 @@
-## GiveCup
+## Introducing GiveCup
 
 GiveCup is a gamified Web3 based mobile app revolutionizing charitable donations. Developed by a trio of high school students & Web3 enthusiasts, GiveCup aims to ensure every donation counts, while providing a rewarding and engaging user experience.
 
+GiveCup revolutionizes the way charitable donations are made, by integrating the benefits of the blockchain, gamification, and community-building. We make donations secure, transparent, and rewarding, striving to create a personal connection between the donor and the organization.
+
 [Website](https://givecup.io) | [Pitch Deck](https://drive.google.com/file/d/1iOb9-4TW-yTz4TD-LgK6vqBQCCLGUSmK/view?usp=sharing) | [Demo Video](https://www.youtube.com/watch?v=3hRxI3Xmyhg) | [Technical Documentation](https://github.com/GiveCup/docs) | [GitHub](https://github.com/givecup-algorand)
 
+## 🎥 Presentation Video
 [![Watch the demo](https://img.youtube.com/vi/f6Cd2hSYgWM/0.jpg)](https://www.youtube.com/watch?v=3hRxI3Xmyhg)
 
 # 🚀 Features
